@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"expanded":true,"name":"要塞","order":2,"parentId":2,"scrollX":850,"scrollY":1220},
+{"id":2,"expanded":true,"name":"世界地图 1","order":1,"parentId":0,"scrollX":1936,"scrollY":898},
+{"id":3,"expanded":false,"name":"主城","order":3,"parentId":1,"scrollX":832,"scrollY":640}
+]
